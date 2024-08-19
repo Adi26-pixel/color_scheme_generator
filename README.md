@@ -1,4 +1,4 @@
-![SP_ Color Picker](https://github.com/user-attachments/assets/638cf0f2-9d8c-496c-bb96-3250e58b4ea4)# color_scheme_generator
+# color_scheme_generator
 
 Color Scheme Generator - API Project
 
