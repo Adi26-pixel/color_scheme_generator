@@ -14,8 +14,5 @@ Requirements
 Stretch goals
 
 - click hex values to copy to clipboard
-
-Design Files
-
-
-![SP_ Color Picker](https://github.com/user-attachments/assets/cbd08256-ca36-4331-b1ad-04ba8d056d3b)
+- 
+![SP_ Color Picker](https://github.com/user-attachments/assets/a5e300a4-5c87-4951-a6d3-9a2c380e9ab1)
