@@ -1,4 +1,4 @@
-# color_scheme_generator
+![SP_ Color Picker](https://github.com/user-attachments/assets/638cf0f2-9d8c-496c-bb96-3250e58b4ea4)# color_scheme_generator
 
 Color Scheme Generator - API Project
 
@@ -17,4 +17,5 @@ Stretch goals
 
 Design Files
 
-- https://www.figma.com/design/De7pbDFBI4uNT7N2R91qcz/Color-Scheme-Generator-(Copy)?node-id=2-1155&t=2DIlzIjoBEn2SXLR-0
+
+![SP_ Color Picker](https://github.com/user-attachments/assets/cbd08256-ca36-4331-b1ad-04ba8d056d3b)
