@@ -14,5 +14,11 @@ Requirements
 Stretch goals
 
 - click hex values to copy to clipboard
-- 
-![SP_ Color Picker](https://github.com/user-attachments/assets/a5e300a4-5c87-4951-a6d3-9a2c380e9ab1)
+
+Design File 
+
+- https://www.figma.com/design/De7pbDFBI4uNT7N2R91qcz/Color-Scheme-Generator-(Copy)?t=LjMAm1qGyG0APB5A-0
+
+API Link 
+
+- https://www.thecolorapi.com/docs#schemes
